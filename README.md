@@ -82,13 +82,13 @@ sudo setoolkit
 
 **5. Enter the URL of the legitimate site ```(e.g., https://accounts.google.com)```**
 
-<img width="1165" height="98" alt="image" src="https://github.com/user-attachments/assets/0476a220-719c-482c-bdc0-36db5fd58c5a" />
+<img width="1553" height="417" alt="sc3" src="https://github.com/user-attachments/assets/d0b3c987-519c-4298-b135-74078f747e85" />
 
 
 
 
 **6. Send the generated link to the victim.**
-<img width="948" height="994" alt="Screenshot 2025-09-27 095025" src="https://github.com/user-attachments/assets/9fce1c45-4e56-46a6-9457-4692a2f22bc7" />
+![sc1](https://github.com/user-attachments/assets/a32b1417-29b0-427c-878c-17bb8642ce61)
 
 
 
@@ -96,7 +96,7 @@ sudo setoolkit
 ```bash
 /var/www/html/
 ```
-<img width="935" height="664" alt="Screenshot 2025-09-27 094856" src="https://github.com/user-attachments/assets/6f066a5e-8b40-4760-9b1d-9816cfc8aa25" />
+![sc2](https://github.com/user-attachments/assets/b7dc8f45-7c51-4132-9247-9fc9d91a9ac0)
 
 
 
